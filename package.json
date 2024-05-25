@@ -13,6 +13,7 @@
     "@hapi/hapi": "^21.3.9",
     "@hapi/inert": "^7.1.0",
     "axios": "^1.7.2",
+    "hapi-pino": "^12.1.0",
     "normalize.css": "^8.0.1",
     "pinia": "^2.1.7",
     "primeflex": "^3.3.1",

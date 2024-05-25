@@ -9,6 +9,8 @@ COPY public /app/public
 COPY src /app/src
 COPY dist /app/dist
 
+ENV NODE_ENV production
+
 RUN npm install
 
 ENTRYPOINT ["npm", "run", "start"]

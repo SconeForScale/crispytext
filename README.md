@@ -1,4 +1,3 @@
 # crispytext
 
-it splits text into blocks of a specified length, with a specified prefix and a continuation note if threre will be more blocks
-im poggin out
+Tool for splitting large blocks of RP text into chunks with a chat prefix and continuation note.
